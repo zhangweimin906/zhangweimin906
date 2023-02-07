@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "C/rAGOoiQXIk2s99j8ikt6Zo+x9FYWiluMMit3nXKfpTRERCz/CJoKX3Yju51JLSBGRameaOxQt4eAS56QSINA==",
+  "dgSpecHash": "FywRoIRElUfwctLPvJ6NHr9To3TJ+VzPZufy8HJdBuHCFWLyqomCS49zCjzD3GQB3iN5faH562sziskgLv5jtg==",
   "success": true,
   "projectFilePath": "D:\\Landing decryption\\Jenkins_API\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }
