@@ -13,6 +13,9 @@ using System.Threading.Tasks;
 
 namespace BlazorApp1
 {
+    /// <summary>
+    /// blazorapp1
+    /// </summary>
     public class Startup
     {
         public Startup(IConfiguration configuration)
