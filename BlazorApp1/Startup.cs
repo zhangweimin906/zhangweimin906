@@ -54,7 +54,7 @@ namespace BlazorApp1
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            //useendpoints
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapBlazorHub();
